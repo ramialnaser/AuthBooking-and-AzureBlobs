@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Emulator config file set to D:\Lab4\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] DiagnosticsStoreRootPath set to: C:\Users\Amir\AppData\Local\dftmp\Resources\b7cd794a-2788-4151-bfa7-8bd9857c2b61
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Loading config file: D:\Lab4\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Config file to read: D:\Lab4\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Emulator config file set to D:\Lab4\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:38] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:39] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:39] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:39] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:39] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:40:39] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:41:49] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-12 19:41:49] DiagnosticPlugin exited with code 0
